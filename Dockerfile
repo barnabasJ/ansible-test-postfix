@@ -1,2 +1,2 @@
 FROM barnabasj/ansible-test-base
-RUN yum install -y postfix
+RUN yum install -y postfix sendmail
